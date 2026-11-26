@@ -1,0 +1,9 @@
+{
+  "tracker": "SKIN_TEMPERATURE_CONTINUOUS",
+  "timestamp": 17500,
+  "values": {
+    "OBJECT_TEMPERATURE": 33.6,
+    "AMBIENT_TEMPERATURE": 22.4,
+    "STATUS": 0
+  }
+}

@@ -1,0 +1,2 @@
+# Captured web sources preserve upstream Markdown hard line breaks, which use two trailing spaces.
+03_Sources/web/*.md whitespace=-trailing-space

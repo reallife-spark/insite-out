@@ -1,0 +1,8 @@
+{
+  "tracker": "HEART_RATE_CONTINUOUS",
+  "timestamp": 17000,
+  "values": {
+    "HEART_RATE": 72,
+    "HEART_RATE_STATUS": 0
+  }
+}

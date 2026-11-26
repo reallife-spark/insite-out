@@ -1,0 +1,10 @@
+{
+  "tracker": "HEART_RATE_CONTINUOUS",
+  "timestamp": 17000,
+  "values": {
+    "HEART_RATE": 74,
+    "HEART_RATE_STATUS": 0,
+    "IBI_LIST": [812, 803, 798],
+    "IBI_STATUS_LIST": [0, 0, 0]
+  }
+}
